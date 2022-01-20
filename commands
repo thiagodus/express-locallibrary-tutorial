@@ -1,0 +1,10 @@
+express express-locallibrary-tutorial --view=pug
+
+npm install ***dependencies in the package.json file
+
+npm start ***Specifying the DEBUG variable as shown enables console logging/debugging.
+
+nodemon - for restart file on changes
+npm install --save-dev nodemon
+
+SET DEBUG=express-locallibrary-tutorial:* & npm run devstart
